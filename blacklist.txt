@@ -1,7 +1,6 @@
 #
-# ------------------------------------[DOMAINS]-------------------------------------- #
-# Black List
 # Title: The Block List - Black List
+#
 abanca-app-alertas.com
 abanca-app-clientes.com
 abanca.app-cliente.net
