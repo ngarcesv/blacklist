@@ -1,0 +1,7 @@
+# ------------------------------------[DOMAINS]-------------------------------------- #
+# Title: The Block List - Black List
+# Total number of network filters: 1
+#
+# Black List
+
+aemet.blog
