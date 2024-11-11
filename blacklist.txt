@@ -1,7 +1,21 @@
-# ------------------------------------[DOMAINS]-------------------------------------- #
-# Title: The Block List - Black List
-# Total number of network filters: 1
 #
+# ------------------------------------[DOMAINS]-------------------------------------- #
 # Black List
-
+# Title: The Block List - Black List
+abanca-app-alertas.com
+abanca-app-clientes.com
+abanca.app-cliente.net
 aemet.blog
+clcr.me
+es-abanca-info.com
+es.abanca-clientes-web.com
+img2018.cnblogs.com
+incidencias-declaracion.com
+inicio.es-abanca-app.com
+leathernknivesaroma.com
+lephora.com
+lvbp.com
+medallia.eu
+seguridad-abanca.com
+seguridad-abanca.es
+storage.yandexcloud.net
