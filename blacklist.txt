@@ -1,20 +1,20 @@
 #
 # Title: The Block List - Black List
 #
-abanca-app-alertas.com
-abanca-app-clientes.com
-abanca.app-cliente.net
-aemet.blog
-clcr.me
-es-abanca-info.com
-es.abanca-clientes-web.com
-img2018.cnblogs.com
-incidencias-declaracion.com
-inicio.es-abanca-app.com
-leathernknivesaroma.com
-lephora.com
-lvbp.com
-medallia.eu
-seguridad-abanca.com
-seguridad-abanca.es
-storage.yandexcloud.net
+0.0.0.0 abanca-app-alertas.com
+0.0.0.0 abanca-app-clientes.com
+0.0.0.0 abanca.app-cliente.net
+0.0.0.0 aemet.blog
+0.0.0.0 clcr.me
+0.0.0.0 es-abanca-info.com
+0.0.0.0 es.abanca-clientes-web.com
+0.0.0.0 img2018.cnblogs.com
+0.0.0.0 incidencias-declaracion.com
+0.0.0.0 inicio.es-abanca-app.com
+0.0.0.0 leathernknivesaroma.com
+0.0.0.0 lephora.com
+0.0.0.0 lvbp.com
+0.0.0.0 medallia.eu
+0.0.0.0 seguridad-abanca.com
+0.0.0.0 seguridad-abanca.es
+0.0.0.0 storage.yandexcloud.net
