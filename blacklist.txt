@@ -4,7 +4,7 @@
 # Homepage: https://raw.githubusercontent.com/ngarcesv/
 # Last modified: 11-11-2024 23:35:00
 # License: MIT license
-# Total Lines: 25 lines
+# Total Lines: 27 lines
 #
 abanca-app-alertas.com
 abanca-app-clientes.com
@@ -23,3 +23,5 @@ medallia.eu
 seguridad-abanca.com
 seguridad-abanca.es
 storage.yandexcloud.net
+noidapowertransformers.com
+faytonholdings.com
