@@ -1,18 +1,19 @@
-# Title: Pihole Black List
-# Version: 1.0.0
+#
 # Contact: ngarcesv
 # Homepage: https://raw.githubusercontent.com/ngarcesv/
 # Last modified: 11-11-2024 23:35:00
 # License: MIT license
+# Title: Pihole Black List
 # Total Lines: 27 lines
-#
+# Version: 5.18.3
 abanca-app-alertas.com
-abanca-app-clientes.com
 abanca.app-cliente.net
+abanca-app-clientes.com
 aemet.blog
 clcr.me
-es-abanca-info.com
 es.abanca-clientes-web.com
+es-abanca-info.com
+faytonholdings.com
 img2018.cnblogs.com
 incidencias-declaracion.com
 inicio.es-abanca-app.com
@@ -20,8 +21,8 @@ leathernknivesaroma.com
 lephora.com
 lvbp.com
 medallia.eu
+noidapowertransformers.com
+propertydhundho.com
 seguridad-abanca.com
 seguridad-abanca.es
 storage.yandexcloud.net
-noidapowertransformers.com
-faytonholdings.com
