@@ -1,7 +1,7 @@
 #
 # Contact: ngarcesv
 # Homepage: https://raw.githubusercontent.com/ngarcesv/
-# Last modified: 11-11-2024 23:35:00
+# Last modified: 02-07-2025 23:35:00
 # License: MIT license
 # Title: Pihole Black List
 # Total Lines: 27 lines
@@ -27,3 +27,4 @@ seguridad-abanca.com
 seguridad-abanca.es
 storage.yandexcloud.net
 globallabormarketconference.com
+app-abanca.es-cancelacion.com
