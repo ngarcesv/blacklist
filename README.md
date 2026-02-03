@@ -1,7 +1,7 @@
 # #######
 # Malicious Domains and IPv4 Address
 
-List of malicious domains and IPv4 addresses
+List of malicious domains, CIDRs and IPv4 addresses
 
 # #######
 # License
