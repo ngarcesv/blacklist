@@ -1,5 +1,5 @@
 # #######
-# Malicious Domains and IPVv4 Address
+# Malicious Domains and IPv4 Address
 
 List of malicious domains and IPv4 addresses
 
